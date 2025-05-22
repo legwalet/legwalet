@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @legwalet
+- 👨🏽‍💻 I’m a DevOps/SRE professional
 - 👀 I’m interested in CI/CD
-- 🌱 I’m currently learning everything AWS
+- 🌱 I’m currently experienced in everything AWS
 - 📫 How to reach me "legwalet11@gmail.com"
 
 <!---
